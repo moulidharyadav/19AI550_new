@@ -2,7 +2,7 @@
 ### DATE:                                                                 
 ### REGISTER NUMBER : 2122223240042
 ### NAME: Moulidhar
-### AIM: 
+### AIM:
 To write a program to create graph using waypoints and use A* algorithm to find path between source and destination.
 ### Algorithm:
 ```
