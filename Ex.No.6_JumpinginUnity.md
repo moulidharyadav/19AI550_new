@@ -55,13 +55,11 @@ public class PlayerJump : MonoBehaviour
 }
 ```
 ### Output:
+#### Before Jump:
+![image](https://github.com/user-attachments/assets/e2f2f6a8-fa44-4f47-9410-c30057b4a283)
 
-
-
-
-
-
-
+#### After Jump:
+![image](https://github.com/user-attachments/assets/36e270bb-f7b2-419e-aec8-c941929434e2)
 
 
 ### Result:
