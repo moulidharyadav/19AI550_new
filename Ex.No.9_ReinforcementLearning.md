@@ -106,14 +106,7 @@ behaviors:
         strength: 1.0
 ```
 ### Output:
-
-
-
-
-
-
-
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cc691838-ac90-48c0-ade1-cb3f52896aba" />
 
 ### Result:
 Thus the AI character was trained using reinforcement learning.
